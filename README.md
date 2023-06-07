@@ -4,7 +4,7 @@
 
 A comprehensive File Monitoring System that tracks file access and usage, with security features for threat detection, mouse and keyboard control for remote computers, and the ability to extend to RDP functionality using JavaScript and Node.js.
 
-## Problems with traditional File Systems
+## Problems with traditional File Systems. 
 - Inadequate security measures that may lead to unauthorized access and usage of files.
 - Lack of real-time monitoring and control, making it difficult to track and stop malicious activity.
 - Insufficient ability to control remote computers, making it difficult to respond to security threats.
